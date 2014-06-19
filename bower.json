@@ -1,0 +1,9 @@
+{
+  "name": "training-app",
+  "dependencies": {
+    "angular": "~1.2.18",
+    "jasmine": "~2.0.0",
+    "requirejs": "~2.1.14",
+    "angular-mocks": "~1.2.18"
+  }
+}
