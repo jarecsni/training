@@ -2,6 +2,7 @@
  * Created by janos on 19/06/2014.
  */
 
+// Added a comment :)
 function Calculator(logger)
 {
     this.add = function (a, b)
